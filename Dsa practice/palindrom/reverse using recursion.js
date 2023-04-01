@@ -12,4 +12,4 @@ function reverse(str) {
 }
 
 
-console.log(reverse("a"));
+console.log(reverse("an"));
